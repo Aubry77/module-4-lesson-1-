@@ -1,15 +1,22 @@
 Python Modules and Data Handling Assignments
+
+
 Overview
 This project consists of two tasks that demonstrate the use of Python modules, both built-in and custom, and the application of data handling techniques using Python's data structures and error handling.
 
-Task 1: Your Mood Today
+
+TASK 1: YOUR MOOD TODAY
+
 Description
+
 Create a Python program using a custom module that asks the user how they are feeling today and responds with a custom message based on the mood entered.
 
 Files
-mood_responses.py: Contains the mood_response function that returns a custom message based on the user's mood.
+mood_responses.py:
+Contains the mood_response function that returns a custom message based on the user's mood.
 
 main.py: The main script that interacts with the user and calls the mood_response function.
+
 
 Usage
 Clone the repository to your local machine.
@@ -23,7 +30,8 @@ Personalize the greeting and responses.
 
 Implement additional features like time-based greetings or a graphical user interface (GUI).
 
-Task 2: Custom Module with Aliases
+
+TASK 2: CUSTOM MODULE WITH ALIASES
 Description
 Create a custom module named text_utils.py with functions for string manipulation (e.g., reversing a string, capitalizing). In your main script, import this module using an alias and utilize its functions.
 
